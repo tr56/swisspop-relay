@@ -1,0 +1,13 @@
+{
+  "name": "swisspop-relay",
+  "version": "1.0.0",
+  "description": "Radio Swiss Pop live stream relay (zero dependencies, Node 18+)",
+  "private": true,
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
